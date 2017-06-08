@@ -1,0 +1,19 @@
+.table-bordered{
+	max-width: 500px;
+	margin-top: 10px;
+}
+
+.panel-default{
+	margin: 0px 10px;
+}
+
+.jsBtnPrimary{
+	margin-left: 10px;
+}
+
+p{
+	margin-top: 20px;
+	margin-left: 1000px;
+	color: red;
+	
+}
