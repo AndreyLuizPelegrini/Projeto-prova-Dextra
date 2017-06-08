@@ -1,2 +1,2 @@
 # projetos
-Projetos práticos
+Projeto para a prova da Dextra.
